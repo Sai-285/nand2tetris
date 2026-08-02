@@ -20,7 +20,7 @@ structure, no black boxes.
 
 - [x] **Project 1 — Boolean Logic**: Built fundamental logic gates (And, Or, Not, Xor, Mux, DMux) 
   and their multi-bit/multi-way variants (And16, Mux4Way16, DMux8Way, etc.) entirely from NAND gates.
-- [ ] **Project 2 — Boolean Arithmetic**: Half-adder, full-adder, and a 16-bit ALU *(in progress)*
+- [x] **Project 2 — Boolean Arithmetic**: Half-adder, full-adder, and a 16-bit ALU *(in progress)*
 - [ ] **Project 3 — Sequential Logic**: Flip-flops, registers, RAM, and a Program Counter
 - [ ] **Project 4 — Machine Language**: Assembly programming for the Hack platform
 - [ ] **Project 5 — Computer Architecture**: Building the full CPU and connecting memory + I/O
